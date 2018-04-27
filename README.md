@@ -32,7 +32,7 @@ Whilst at PwC I gained significant experience coaching junior team members, as w
 
 #### Thrives under pressure
 
-When the pressure is high, I find myself energised and focused. My work at PwC reflected this, as I was not only operating in a a highly regulated environment with tight reporting deadlines, but I was also assigned to multiple teams at once and studying for my ACA qualification.
+When the pressure is high, I find myself energised and focused. My work at PwC reflected this, as I was not only operating in a highly regulated environment with tight reporting deadlines, but I was also assigned to multiple teams at once and studying for my ACA qualification.
 
 #### Growth mentality
 
