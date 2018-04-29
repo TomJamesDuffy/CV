@@ -8,14 +8,14 @@ After graduating from The University of Nottingham with an MSc in IT Management,
 
 ## Projects
 
-For a complete list, see my [GitHub](https://github.com/TomJamesDuffy).
+For a complete list, see my [GitHub](https://github.com/TomJamesDuffy).  
 
-| Project   | Description | Technologies | Testing |  Link |
-|---        |---         |---           | ---
+| Project  | Description | Technologies | Testing |  Link |
+|---|---|---|---|---| 
 | Takeaway| A takeaway ordering program that utilises the Twilio API to send a text message as confirmation when an order is received. | Ruby | RSpec | [Takeaway](https://github.com/TomJamesDuffy/Takeaway)|
 | RPS | A web application built with Sinatra that enables a user to play Rock, Paper, Scissors with a friend or alone.  | Ruby, Sinatra | RSpec, Capybara | [RPS](https://github.com/TomJamesDuffy/RPS) |
-| Nebnb | A web application in a similiar style to airbnb. Allows registered users to post images of places they wish to rent. | Javascript, JQuery, Express | Mocha, Chai, Zombie |[Nebnb](https://github.com/TomJamesDuffy/Nebnb) |
-| Acebook | A web application in a similiar style to facebook. Registered users can post on their timeline, post comments, like comments and view their profile page. Code was deployed through Travis, had it's quality assessed through Code Climate and developed using a staging and production environment.  | Rails, Ruby, JQuery, Heroku | RSpec, Capybara | [Acebook](https://github.com/TomJamesDuffy/acebook-dart) |
+| Nebnb | A web application in a similar style to Airbnb. Allows registered users to post images of places they wish to rent. | Javascript, JQuery, Express | Mocha, Chai, Zombie |[Nebnb](https://github.com/TomJamesDuffy/Nebnb) |
+| Acebook | A web application in a similar style to Facebook. Registered users can post on their timeline, post comments, like comments and view their profile page. Code was deployed through Travis, had it's quality assessed through Code Climate and developed using a staging and production environment.  | Rails, Ruby, JQuery, Heroku | RSpec, Capybara | [Acebook](https://github.com/TomJamesDuffy/acebook-dart) |
 | Final Makers Project | To come | | | |
 
 
@@ -67,7 +67,7 @@ A 16-week intensive development bootcamp, focusing on :
 ###### ICAEW Chartered Accountant
 - Qualified in November 2017
 
-## Professional Experience
+## Experience
 
 #### PwC (September 2013 to November 2017)    
 ##### Senior Associate - Risk Assurance
