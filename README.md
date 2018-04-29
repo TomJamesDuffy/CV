@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests)  
 
-I am a driven and ambitious **Full Stack Junior Developer**, looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to new technologies.
+I am a driven and ambitious **Full Stack Developer**, looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to new technologies.
 
 After graduating from The University of Nottingham with an MSc in IT Management, I spent four years working for PwC in the Risk Assurance department. This gave me exposure to a range of business' as well as enabling me to become a chartered accountant. On completion of my qualification, I decided to redirect my career and was accepted into Makers Academy - a discerning development bootcamp. 
 
@@ -10,13 +10,12 @@ After graduating from The University of Nottingham with an MSc in IT Management,
 
 For a complete list, see my [GitHub](https://github.com/TomJamesDuffy).
 
-| Project   | Description | Technologies | Link |
+| Project   | Description | Technologies | Testing |  Link |
 |---        |---         |---           | ---
-| Takeaway| A takeaway ordering program that utilises the Twilio API to send a text message as confirmation when an order is received. | Ruby, Rspec, Twilio | [Takeaway](https://github.com/TomJamesDuffy/Takeaway)|
-| RPS | A web application that allows you to play Rock, Paper, Scissors with a friend or solo.  | Ruby, Rspec, Capybara, Sinatra | [RPS](https://github.com/TomJamesDuffy/RPS) |
-| Chitter | Twitter clone, including user accounts without the use of a gem | Ruby, Rspec, Capybara, Sinatra, Argon, Pony, Rake | [Chitter](https://github.com/TomJamesDuffy/Chitter) |
-| Nebnb | Airbnb clone created as part of a team | Javascript, JQuery, Express, Mocha, Chai, Zombie, MongoDB |[Nebnb](https://github.com/TomJamesDuffy/Nebnb) |
-| Acebook | Facebook clone created as part of a team | Rails, Ruby, Devise, Acts_as_votable, JQuery, Heroku, Code Climate | [Acebook](https://github.com/TomJamesDuffy/acebook-dart) |
+| Takeaway| A takeaway ordering program that utilises the Twilio API to send a text message as confirmation when an order is received. | Ruby | RSpec | [Takeaway](https://github.com/TomJamesDuffy/Takeaway)|
+| RPS | A web application built with Sinatra that enables a user to play Rock, Paper, Scissors with a friend or alone.  | Ruby, Sinatra | RSpec, Capybara | [RPS](https://github.com/TomJamesDuffy/RPS) |
+| Nebnb | A web application in a similiar style to airbnb. Allows registered users to post images of places they wish to rent. | Javascript, JQuery, Express | Mocha, Chai, Zombie |[Nebnb](https://github.com/TomJamesDuffy/Nebnb) |
+| Acebook | A web application in a similiar style to facebook. Registered users can post on their timeline, post comments, like comments and view their profile page. Code was deployed through Travis, had it's quality assessed through Code Climate and developed using a staging and production environment.  | Rails, Ruby, JQuery, Heroku | RSpec, Capybara | [Acebook](https://github.com/TomJamesDuffy/acebook-dart) |
 | Final Makers Project | To come | | |
 
 
