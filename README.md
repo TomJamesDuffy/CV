@@ -16,7 +16,7 @@ For a complete list, see my [GitHub](https://github.com/TomJamesDuffy).
 | RPS | A web application built with Sinatra that enables a user to play Rock, Paper, Scissors with a friend or alone.  | Ruby, Sinatra | RSpec, Capybara | [RPS](https://github.com/TomJamesDuffy/RPS) |
 | Nebnb | A web application in a similar style to Airbnb. Allows registered users to post images of places they wish to rent. | Javascript, JQuery, Express | Mocha, Chai, Zombie |[Nebnb](https://github.com/TomJamesDuffy/Nebnb) |
 | Acebook | A web application in a similar style to Facebook. Registered users can post on their timeline, post comments, like comments and view their profile page. Code was deployed through Travis, had it's quality assessed through Code Climate and developed using a staging and production environment.  | Rails, Ruby, JQuery, Heroku | RSpec, Capybara | [Acebook](https://github.com/TomJamesDuffy/acebook-dart) |
-| Codecraft | A strategy/survival game. Where the aim of the game is to get the best job you can through managing your three resources, action points, energy and project score. Built using pure javascript. Utilised render loops, collision logic and sprite animation. Hosted on Heroku [here](https://codecraft-game.herokuapp.com/) | Javascript | Sinon, Chai, Mocha | [Codecraft](https://github.com/KTSE-2018/KTSE) |
+| Codecraft | A strategy/survival game. Where the aim of the game is to get the best job you can through managing your three resources, action points, energy and project score. Built using pure javascript. Utilised render loops, collision logic and sprite animation. Hosted on Heroku [here](https://codecraft-game.herokuapp.com/). | Javascript | Sinon, Chai, Mocha | [Codecraft](https://github.com/KTSE-2018/KTSE) |
 
 
 ## Skills
